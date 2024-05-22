@@ -126,7 +126,7 @@ Human-operated robotics and machinery involve the use of remotely controlled rob
 3. **Interoperability:** Ensuring compatibility between different systems and technologies used by various military branches and allied forces.
 ### Intergalactic Logistics
 
-Minimum of 4000000 Deliveries per hour to Intergalactic logistics usingrefers to the planning, coordination, and execution of supply chain operations to support military activities and infrastructure across multiple galaxies. It encompasses the transportation of personnel, equipment, resources, and supplies over vast interstellar distances, often involving complex routes and infrastructure.
+Minimum of 4000000 Deliveries per hour to Intergalactic logistics using Craigslist or equivalent( possible Uber ) refers to the planning, coordination, and execution of supply chain operations to support military activities and infrastructure across multiple galaxies. It encompasses the transportation of personnel, equipment, resources, and supplies over vast interstellar distances, often involving complex routes and infrastructure.
 
 #### Key Components
 
